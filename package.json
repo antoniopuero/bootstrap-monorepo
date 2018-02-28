@@ -1,0 +1,11 @@
+{
+  "name": "dr-apps",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "bootstrap"
+  ],
+  "scripts": {
+    "bootstrap": "node bootstrap/bootstrap.js"
+  }
+}

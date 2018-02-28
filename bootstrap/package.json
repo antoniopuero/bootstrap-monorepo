@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "rimraf": "^2.6.2"
+  }
+}
